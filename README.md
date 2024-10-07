@@ -10,5 +10,5 @@
 - **Streamlit**
 - **Azure OpenAI Service** (for deployment)
 - **SSO Authentication**
-- 
+
 ![image](https://github.com/user-attachments/assets/aaae934e-4897-4f34-b3fc-edfb00df22ec)
